@@ -48,6 +48,13 @@ It leverages the power of deep learning and data augmentation to train a convolu
 
 </div>
 
+<div align="center">
+    <a href="https://nisal.lk/kitty-detector" target="_blank" rel="noopener noreferrer">
+         <img src="https://res.cloudinary.com/dlnhogbjy/image/upload/v1738608673/isdatmyKitty2025-01-3020-17-00-ezgif.com-video-to-gif-converter_k3auhz.gif"  />
+    </a>
+</div>
+
+
 1. **Initial Open** 🐱
 
 <div align="center">
