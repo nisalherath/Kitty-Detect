@@ -18,15 +18,15 @@
 <hr>
 </div>
 
-- [Project Overview](#project-overview)
-- [Dependencies](#dependencies)
-- [File Structure](#file-structure)
-- [Usage](#usage)
+- [Project Overview](#project-overview-)
+- [Dependencies](#dependencies-)
+- [File Structure](#file-structure-)
+- [Usage](#usage-%EF%B8%8F)
   - [Step 1: Preprocessing Images](#step-1-preprocessing-images)
   - [Step 2: Training the Model](#step-2-training-the-model)
   - [Step 3: YOLO Detection (input validation)](#step-3-yolo-detection-input-validation)
-- [Results](#results)
-- [License](#license)
+- [Results](#results-)
+- [License](#license-)
 
 
 <hr>
